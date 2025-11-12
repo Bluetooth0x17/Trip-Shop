@@ -1,0 +1,7 @@
+User provided coding instructions are to be followed. 
+
+Voici le contenu du fichier /boutique-nextjs/boutique-nextjs/public/robots.txt :
+
+User-agent: *
+Disallow: /api/
+Disallow: /produits/[id]
